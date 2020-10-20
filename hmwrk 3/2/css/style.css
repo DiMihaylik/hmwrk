@@ -1,0 +1,37 @@
+.block {
+  border: 1px solid black;
+  width: 200px;
+  height: 430px;
+}
+.block_1 {
+  background: red;
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+
+.block_2 {
+  background:yellow;
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  position: relative;
+  left: 50px;
+  top: 60px;
+}
+
+.block_3 {
+  background:green;
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  position: relative;
+  left: 50px;
+  top: 70px;
+}

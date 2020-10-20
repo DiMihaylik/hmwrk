@@ -1,0 +1,28 @@
+
+
+.block_1 {
+width: 100px;
+height: 100px;
+background: rgb(250, 137, 137);
+position: absolute;
+}
+
+.block_2 {
+  width: 100px;
+  height: 100px;
+  background: rgb(110, 110, 225);
+  z-index: 2;
+  position: absolute;
+  left: 50px;
+  top:  50px;
+  
+  }
+
+  .block_3{
+  width: 100px;
+  height: 100px;
+  background: rgb(123, 255, 123);
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  }
